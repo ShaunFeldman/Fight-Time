@@ -1,0 +1,160 @@
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.deps.json
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.runtimeconfig.json
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.pdb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.csproj.CopyComplete
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.pdb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.genruntimeconfig.cache
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/MenuImg.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/MenuTxt.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/buttonsGameStart.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/buttonsGameSettings.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/buttonsGameExit.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/background character selection.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/CharacterSelection+Names.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/characterBoxes.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/characterBoxes.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni-1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-12.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni-12.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni2.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-22.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni-3.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-32.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-0.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-10.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-20.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-11.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-21.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-2.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-3.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-13.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-23.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-4.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-14.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-24.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-5.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-15.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-25.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-16.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-17.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-26.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-27.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-6.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-7.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-18.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-19.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-28.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-29.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-8.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-9.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Background1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Background2.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Background3.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/timerCount.spritefont.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-1.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-2.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-3.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-4.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-5.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-6.xnb
+/Users/shaunfeldman/Projects/ICS3 copy/Assignments/PASS3/Pass3_1/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.pdb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/characterBoxes.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-32.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni-12.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/CharacterSelection+Names.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/MenuTxt.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Fonts/timerCount.spritefont.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-0.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-1.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-10.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-11.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-12.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-13.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-14.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-15.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-16.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-17.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-18.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-19.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-2.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-20.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-21.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-22.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-23.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-24.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-25.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-26.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-27.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-28.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-29.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-3.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-4.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-5.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-6.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-7.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-8.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/AnimationImg/FightingAni-9.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/background character selection.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Background1.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Background2.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Background3.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/buttonsGameExit.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/buttonsGameSettings.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/buttonsGameStart.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/characterBoxes.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni-1.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni-3.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/FightingAni2.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-1.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-2.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-3.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-4.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-5.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull-6.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HealthBarFull.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Content/Images/Sprites/MenuImg.xnb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.deps.json
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.runtimeconfig.json
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Pass3_1.pdb
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.csproj.CopyComplete
+/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/obj/Debug/netcoreapp3.1/Pass3_1.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{26AEE0E1-EE73-4AC9-AC14-F2B50041E036}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pass3_1/Game1.cs">
+    <Files>
+      <File FileName="Pass3_1/Game1.cs" Line="158" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pass3_1" expanded="True">
+            <Node name="Pass3_1" expanded="True">
+              <Node name="Content" expanded="True">
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True">
+                  <Node name="AnimationImg" expanded="True">
+                    <Node name="FightingAni-17.png" selected="True" />
+                  </Node>
+                  <Node name="Sprites" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pass3__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5PMO8H1Nk8v6qtYSyvjbbFOdIKbYNZQtctt80iyukXNblOHHap43k5JUvAYQkfIKqBkKzcl0imXOA4qCMNx5A==",
+  "success": true,
+  "projectFilePath": "/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Pass3_1.csproj",
+  "expectedPackageFiles": [
+    "/Users/shaunfeldman/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/shaunfeldman/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

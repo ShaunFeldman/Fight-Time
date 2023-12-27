@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-0.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-1.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-10.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-11.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-12.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-13.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-14.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-15.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-16.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-17.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-18.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-19.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-2.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-20.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-21.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-22.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-23.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-24.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-25.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-26.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-27.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-28.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-29.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-3.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-4.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-5.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-6.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-7.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-8.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/AnimationImg/FightingAni-9.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/background character selection.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/Background1.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/Background2.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/Background3.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/buttonsGameExit.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/buttonsGameSettings.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/buttonsGameStart.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/characterBoxes.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/FightingAni-1.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/FightingAni2.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/FightingAni-3.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull-1.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull-2.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull-3.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull-4.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull-5.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/HealthBarFull-6.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS3/Pass3_1-2/Pass3_1/Content/Images/Sprites/MenuImg.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
